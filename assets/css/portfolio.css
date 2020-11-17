@@ -10,20 +10,13 @@ body {
   /* background-image: url("../ignasi_pattern_s.png"); */
 }
 
-/*Change color of Contact*/
+/*Make portfolio color teal color*/
 .text-blue {
   color: dodgerblue;
 }
 
-/*Change button color*/
-.btn-success {
-  color: #fff;
-  background-color: dodgerblue;
-  border-color: dodgerblue;
-}
-
-/*Make border color green on the footer*/
+/*Make border color on footer green*/
 .border-green {
-  border-color: dodgerblue !important;
+  border-color: mediumseagreen !important;
   border-width: 2px;
 }
