@@ -1,7 +1,7 @@
 /*Edit Navbar Name*/
 .navbar-brand {
   /* background-color: mediumseagreen; */
-  color: dodgerblue !important;
+  color: blueviolet !important;
   font-weight: bold;
 }
 
@@ -12,7 +12,7 @@ body {
 
 /*Make portfolio color teal color*/
 .text-blue {
-  color: dodgerblue;
+  color: blueviolet;
 }
 
 /*Make border color on footer green*/

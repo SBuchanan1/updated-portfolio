@@ -1,29 +1,26 @@
-/*Edit Navbar Name*/
 .navbar-brand {
-  /* background-color: mediumseagreen; */
-  color: dodgerblue !important;
+  color: blueviolet !important;
   font-weight: bold;
 }
 
-/*Set background image*/
 body {
-  /* background-image: url("../ignasi_pattern_s.png"); */
+  background-image: url("../ignasi_pattern_s.png");
 }
 
 /*Change color of Contact*/
 .text-blue {
-  color: dodgerblue;
+  color: blueviolet;
 }
 
 /*Change button color*/
 .btn-success {
   color: #fff;
-  background-color: dodgerblue;
-  border-color: dodgerblue;
+  background-color: blueviolet;
+  border-color: blueviolet;
 }
 
 /*Make border color green on the footer*/
 .border-green {
-  border-color: dodgerblue !important;
+  border-color: blueviolet !important;
   border-width: 2px;
 }
